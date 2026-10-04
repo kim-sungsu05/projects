@@ -1,17 +1,16 @@
 # Projects
 
-학습용으로 개발한 미니 프로젝트들을 모아둔 저장소입니다.  
-저장소 외부에 있는 프로젝트는 참조 링크를 통해 이동하실 수 있습니다.
-
-## 목차
-
+학습용으로 개발한 미니 프로젝트들을 모아둔 저장소입니다.<br>
+저장소 외부에 있는 프로젝트들도 참조 링크를 통해 이동하실 수 있습니다.
+> [日本語で読む](/README_ja.md)
+### 목차
 - [Todo List](#-todo-list)
 - [Wiki RAG](#-wiki-rag)
 - [Graduate Admission Predictor](#-graduate-admission-predictor)
 
 ---
 
-## ▪ Todo List
+### ▪ Todo List
 
 | 항목 | 내용 |
 |---|---|
@@ -21,9 +20,11 @@
 | **개발 목적** | 프론트엔드와 백엔드의 연결 과정 학습 및 서버의 이해 |
 | **기간** | 2026.10.03 ~ 현재 |
 
+> **이동:** [todo-list](/todo-list/)
+
 ---
 
-## ▪ Wiki RAG
+### ▪ Wiki RAG
 
 | 항목 | 내용 |
 |---|---|
@@ -39,7 +40,7 @@
 
 ---
 
-## ▪ Graduate Admission Predictor
+### ▪ Graduate Admission Predictor
 
 | 항목 | 내용 |
 |---|---|
