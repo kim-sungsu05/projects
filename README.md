@@ -16,8 +16,8 @@
 |---|---|
 | **개요** | 간단한 Todo 리스트 |
 | **주제** | Web Development |
-| **기술 스택** | HTML, CSS, JavaScript (Node.js) |
-| **개발 목적** | 프론트엔드와 백엔드의 연결 과정 학습 및 서버의 이해 |
+| **기술 스택** | HTML, CSS, JavaScript (Node.js), MongoDB |
+| **개발 목적** | 프론트엔드와 백엔드의 연결 과정 학습 및 웹의 동작 이해 |
 | **기간** | 2026.10.03 ~ 현재 |
 
 > **이동:** [todo-list](/todo-list/)
@@ -30,8 +30,8 @@
 |---|---|
 | **개요** | 나무위키 문서를 기반으로 답변하는 RAG 프로젝트 |
 | **주제** | RAG |
-| **기술 스택** | Python (LangChain) |
-| **개발 목적** | RAG의 개념 이해와 실제 구현 |
+| **기술 스택** | Python (LangChain, Streamlit) |
+| **개발 목적** | RAG의 개념 이해와 API를 통한 실제 구현 |
 | **기간** | 2026.08.30 ~ 2026.09.16 |
 
 > **이동:** [GitHub Repository](https://github.com/kim-sungsu05/wiki-rag)  
